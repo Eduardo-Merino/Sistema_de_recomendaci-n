@@ -22,8 +22,10 @@ La lógica principal de recomendación es proporcionada por la función recomend
 ## Cómo usar este proyecto
 
 **Requisitos**
-Python 3.12.5
-Miniconda
+1. Python 3.12.5
+2. Miniconda (instalar desde https://docs.anaconda.com/miniconda/)
+
+
 Las librerías pueden ser instaladas mediante `conda env create -f environment.yml` , en el caso que tengas instalado conda (este fue el metodo yo use para instalar las dependecias del proyecto).
 
 o con `pip install -r requirements.txt` (si ya tienes instalado python 3.12 y no tienes conda)
